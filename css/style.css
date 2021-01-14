@@ -1,0 +1,79 @@
+body {
+    /* font-family: 'Bebas Neue', cursive; */
+font-family: 'Roboto', sans-serif;
+}
+.logo img {
+    width: 250px;
+}
+.penguins {
+    color: #FABE4C;
+    font-size: 80px !important;
+    font-weight: 600;
+    font-family: 'Bebas Neue', cursive;
+}
+.penguins span {
+    color: #363958;
+}
+.banner-img img{
+    width: 400px;
+}
+.container h3{
+    color: #363958;
+    font-size: 48px;
+    font-weight: 450;
+    font-family: 'Bebas Neue', cursive;
+}
+.card-title{
+    color: #363958;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-bg-color {
+    background-color: #99B236;
+    border-radius: 10px;
+    color: white;
+}
+.short-img img{
+    width: 400px;
+    height: 400px;
+}
+.bg-color{
+    margin: 10px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    
+}
+.border-remove{
+    border: 0;
+}
+.remove-footer{
+    border: 0;
+    background-color: white;
+}
+.price-color{
+    color: #FABE4C;
+    font-size: 25px;
+    font-weight: 900;
+}
+.small-image-fashion img{
+    width: 75px;
+    height: 75px;
+}
+header{
+    background-color: #FFFBF0;
+}
+.Fashion-color{
+    color: #363958;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.bold-nav{
+    font-size: 20px;
+    font-weight: 500;
+}
+.space-nav{
+    margin-right: 5px;
+}
